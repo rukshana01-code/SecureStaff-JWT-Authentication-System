@@ -1,6 +1,6 @@
-# 🔐 SecureStaff Portal – JWT Authentication System
+🔐 SecureStaff Portal – JWT Authentication System
 
-## 📌 Project Overview
+📌 Project Overview
 This project was developed for the Advanced CyberSecurity module.
 
 It demonstrates secure authentication using:
@@ -11,18 +11,14 @@ It demonstrates secure authentication using:
 - Input validation
 - Token expiration handling
 
----
-
-## 🛠 Technologies Used
+ 🛠 Technologies Used
 - Python
 - Flask
 - JWT
 - Cryptography
 - HTML / CSS
 
----
-
-## ⚙️ How to Run
+⚙️ How to Run
 
 1. Install dependencies:
    pip install -r requirements.txt
@@ -30,14 +26,11 @@ It demonstrates secure authentication using:
 2. Run application:
    python app.py
 
----
 
-## 🎓 Academic Context
+🎓 Academic Context
 Module: CET324 – Advanced CyberSecurity  
 University of Sunderland  
 
----
-
-## 👩‍💻 Author
+ 👩‍💻 Author
 Fathima Rukshana  
 BSc (Hons) Network Systems Undergraduate
