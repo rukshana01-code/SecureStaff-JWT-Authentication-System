@@ -27,10 +27,4 @@ It demonstrates secure authentication using:
    python app.py
 
 
-🎓 Academic Context
-Module: CET324 – Advanced CyberSecurity  
-University of Sunderland  
 
- 👩‍💻 Author
-Fathima Rukshana  
-BSc (Hons) Network Systems Undergraduate
